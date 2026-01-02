@@ -6,7 +6,7 @@ I'm currently a **Frontend Engineering student at AltSchool Africa**, diving dee
 
 ## 📫 **Let's Connect!**
 
-- GitHub: [Your GitHub Profile](#https://github.com/Caisere)
-- Twitter: [Your Twitter Profile](#https://x.com/hormorshorlar)
+- GitHub: [#https://github.com/Caisere]
+- Twitter: [#https://x.com/hormorshorlar]
 
 *🚀 Learning never stops! Let's build something great.*
